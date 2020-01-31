@@ -15,7 +15,7 @@ indent: 4
 # --> check the source code for various characteristics
 src/main:
     java:
-        labtwo/ComputeMoonDistance.java:
+        practicalthree/ComputeMoonDistance.java:
             ConfirmFileExists
             CountSingleLineComments --language Java --count 2
             CountMultipleLineComments --language Java --count 2
