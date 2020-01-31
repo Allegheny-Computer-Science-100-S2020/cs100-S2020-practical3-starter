@@ -1,4 +1,4 @@
-# cs100-S2020-practical3-solution
+# cs100-S2020-practical3-starter
 
 ## Table of Contents
 
